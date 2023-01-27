@@ -67,8 +67,8 @@ td{
 padding:0.5rem 0;
 
 }
-input:focus:invalid {
-    background-color:dodgerblue;
+input:focus:invalid{
+    background-color:indianred;
 }
 input:valid{
     background-image: url("check2.jpeg");
